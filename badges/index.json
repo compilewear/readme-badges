@@ -1,0 +1,62 @@
+[
+  {
+    "name": "build-works-on-my-machine",
+    "label": "build",
+    "value": "works on my machine"
+  },
+  {
+    "name": "coverage-undefined",
+    "label": "coverage",
+    "value": "undefined%"
+  },
+  {
+    "name": "merges-force",
+    "label": "merges",
+    "value": "--force"
+  },
+  {
+    "name": "tests-it-s-fine",
+    "label": "tests",
+    "value": "it's fine"
+  },
+  {
+    "name": "prod-yolo",
+    "label": "prod",
+    "value": "yolo"
+  },
+  {
+    "name": "docs-null",
+    "label": "docs",
+    "value": "null"
+  },
+  {
+    "name": "review-lgtm",
+    "label": "review",
+    "value": "lgtm"
+  },
+  {
+    "name": "deploys-friday-5pm",
+    "label": "deploys",
+    "value": "friday 5pm"
+  },
+  {
+    "name": "bugs-features",
+    "label": "bugs",
+    "value": "features"
+  },
+  {
+    "name": "uptime-127-0-0-1",
+    "label": "uptime",
+    "value": "127.0.0.1"
+  },
+  {
+    "name": "tech-debt-increasing",
+    "label": "tech debt",
+    "value": "increasing"
+  },
+  {
+    "name": "compiled-probably",
+    "label": "compiled",
+    "value": "probably"
+  }
+]

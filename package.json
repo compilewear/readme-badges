@@ -1,0 +1,14 @@
+{
+  "name": "readme-badges",
+  "version": "1.0.0",
+  "description": "Joke shields.io-style README badges for developers — build: works on my machine.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/compilewear/readme-badges"
+  },
+  "scripts": {
+    "generate": "node generate.mjs"
+  }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="20" role="img" aria-label="deploys: friday 5pm">
+  <title>deploys: friday 5pm</title>
+  <clipPath id="r"><rect width="156" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="68" height="20" fill="#0b0e14"/>
+    <rect x="68" width="88" height="20" fill="#7ee787"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" text-anchor="middle">
+    <text x="34.0" y="14.5" fill="#7ee787">deploys</text>
+    <text x="112.0" y="14.5" fill="#06210f" font-weight="bold">friday 5pm</text>
+  </g>
+</svg>
